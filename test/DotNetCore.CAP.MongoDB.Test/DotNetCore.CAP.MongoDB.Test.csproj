@@ -18,8 +18,4 @@
     </PackageReference> 
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\DotNetCore.CAP.MongoDB\DotNetCore.CAP.MongoDB.csproj" />
-  </ItemGroup>
-
 </Project>
